@@ -1,8 +1,8 @@
 <div align="center">
   <img src="banner.png" alt="sam / @chi0sk banner" width="100%">
 
-  <h3>hey, i'm sam (@chi0sk)</h3>
-  <p>16. i write too much lua/cpp</p>
+  <h3>sam (@chi0sk)</h3>
+  <p>16. lua/cpp</p>
 </div>
 
 ---
